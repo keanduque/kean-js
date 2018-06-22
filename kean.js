@@ -3,3 +3,5 @@ var msgAlert = function(msg){
 }
 var msg = msgAlert("How are you Kean?");
 alert(msg);
+
+console.log(msg);
