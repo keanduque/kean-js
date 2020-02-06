@@ -2,7 +2,6 @@ var msgAlert = function(msg){
 	return msg;
 }
 var msg = msgAlert("How are you Kean?");
-alert(msg);
 
 console.log(msg);
 
@@ -14,5 +13,4 @@ let employee = {
         return this.id + " " + this.name + " salary is : " + this.salary;
     }
 };
-;
 console.log(employee.testFunction());
