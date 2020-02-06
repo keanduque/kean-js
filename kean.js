@@ -3,8 +3,6 @@ var msgAlert = function(msg){
 }
 var msg = msgAlert("How are you Kean?");
 
-console.log(msg);
-
 let employee = {
     id : 123,
     name : "kean",
